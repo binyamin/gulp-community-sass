@@ -1,1 +1,1 @@
-# Sass plugin for gulp-community
+# [liquidjs](https://github.com/harttle/liquidjs) plugin for gulp-community
